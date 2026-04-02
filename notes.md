@@ -1,3 +1,3 @@
-Git practice repo
+# Git Practice - main version
 
 ## Co tu jest
