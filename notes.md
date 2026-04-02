@@ -1,3 +1,3 @@
-# Git Practice - main version
+# Git Practice - feature version
 
 ## Co tu jest
